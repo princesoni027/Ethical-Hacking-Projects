@@ -116,7 +116,7 @@ prince:x:1001:1001:/home/prince:/bin/bash
 
 In `/etc/shadow`:
 ```
-prince:$1$8nWuasXV$pk6ZABfqT9NoHv1pPX8Rj.
+prince:$y$j9T$ep3Qv2Hy8a5uO71kK7yOm0$rxMKpQlW2n/XflTYSpcCljAKbKROVgZHXHr50E5ed.4:20223:0:99999:7:::.
 ```
 
 ---
